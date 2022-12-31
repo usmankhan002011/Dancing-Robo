@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dancing-Robo/static/css/main.745b96ee.css",
+    "main.js": "/Dancing-Robo/static/js/main.e3b96383.js",
+    "static/js/787.142da1d4.chunk.js": "/Dancing-Robo/static/js/787.142da1d4.chunk.js",
+    "index.html": "/Dancing-Robo/index.html",
+    "main.745b96ee.css.map": "/Dancing-Robo/static/css/main.745b96ee.css.map",
+    "main.e3b96383.js.map": "/Dancing-Robo/static/js/main.e3b96383.js.map",
+    "787.142da1d4.chunk.js.map": "/Dancing-Robo/static/js/787.142da1d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.745b96ee.css",
+    "static/js/main.e3b96383.js"
+  ]
+}
